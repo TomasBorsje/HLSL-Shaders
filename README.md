@@ -1,5 +1,5 @@
 # Shaders
-Assorted shaders created for HLSL practice.
+A Unity project containing assorted shaders created for HLSL practice.
 
 ## Rainbow Depth Mesh Shader
 ![](https://i.imgur.com/yB5uQut.gif)
