@@ -3,7 +3,7 @@ A Unity project containing assorted shaders created for HLSL practice.
 
 ## Rainbow Depth Mesh Shader
 ![](https://i.imgur.com/yB5uQut.gif)
-Renders meshes with a cycling rainbow colour depending on their distance from the camera.
+Renders meshes with a cycling rainbow colour depending on the pixel's distance from the camera.
 
 ## Rainbow Depth Post-Processing Shader
 ![](https://i.imgur.com/chbbWAg.gif)
